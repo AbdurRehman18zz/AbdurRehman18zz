@@ -1,119 +1,198 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                     HERO SECTION                          -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Abd Ur Rehman
-</h1>
+<div align="center">
 
-<h3 align="center">
-  🛡️ Aspiring SOC Analyst • Cybersecurity • Security Monitoring • Threat Detection
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:111827,70:0E75B6,100:00D9FF&text=ABD%20UR%20REHMAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20BLUE%20TEAM&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Building+Hands-On+Cybersecurity+Projects;Learning+%E2%86%92+Building+%E2%86%92+Detecting+%E2%86%92+Defending" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/abdurrehman18zz">
+<img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/abdurrehman18zz?tab=followers">
+<img src="https://img.shields.io/github/followers/abdurrehman18zz?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="Followers"/>
+</a>
+
+<a href="https://github.com/abdurrehman18zz?tab=repositories">
+<img src="https://img.shields.io/github/stars/abdurrehman18zz?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="GitHub Stars"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abdurrehmanexex@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdurrehman18zz">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
+<!-- ========================================================= -->
+
+<h2 align="center">🛡️ About Me</h2>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hey there 👋
+
+I'm **Abd Ur Rehman**, a Computer Science student focused on building practical skills in **Cybersecurity, Security Operations and Blue Team defense**.
+
+My learning approach is simple:
+
+> **Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings**
+
+I'm particularly interested in how security events move from an endpoint or network into a monitoring platform and how a SOC analyst turns those events into an actual investigation.
+
+### 🎯 My Direction
+
+I'm working toward becoming a **SOC Analyst / Blue Team professional**, with a focus on:
+
+🔹 Security Monitoring  
+🔹 SIEM  
+🔹 Threat Detection  
+🔹 Log Analysis  
+🔹 Incident Response  
+🔹 Endpoint Security  
+🔹 Network Security  
+🔹 Security Automation  
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="280" alt="Cybersecurity"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOCUS-SOC%20%7C%20BLUE%20TEAM-00D9FF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-REAL%20WORLD%20LABS-0E75B6?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GOAL-SOC%20ANALYST-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                   CURRENT FOCUS                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏠 SOC Homelab
+
+Building a practical SOC environment using:
+
+**Wazuh**  
+**Suricata**  
+**Windows 11**  
+**Ubuntu Linux**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔎 Detection
+
+Learning how to:
+
+**Collect logs**  
+**Detect suspicious activity**  
+**Investigate alerts**  
+**Analyze events**
+
+</td>
+
+<td width="33%" align="center">
+
+### 📚 Continuous Learning
+
+Currently improving:
+
+**SIEM**  
+**Splunk**  
+**Blue Team**  
+**Incident Response**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    SECURITY LAB                           -->
+<!-- ========================================================= -->
+
+<h2 align="center">🏠 My SOC Homelab</h2>
 
 <p align="center">
-  <a href="https://github.com/abdurrehman18zz">
-    <img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-
-  <a href="https://github.com/abdurrehman18zz?tab=followers">
-    <img src="https://img.shields.io/github/followers/abdurrehman18zz?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-
-  <a href="https://github.com/abdurrehman18zz">
-    <img src="https://img.shields.io/github/stars/abdurrehman18zz?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-</p>
-
-<!-- ========================= TYPING ========================= -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Building+Hands-On+Cybersecurity+Projects"
-    alt="Typing SVG"
-  />
+A hands-on environment where I practice monitoring, detection and investigation instead of learning cybersecurity only through theory.
 </p>
 
 <br>
 
-<!-- ========================= ABOUT ME ========================= -->
-
-## 🛡️ About Me
-
-<img align="right" alt="Cybersecurity" width="280" src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif">
-
-🎓 Computer Science student with a strong interest in **Cybersecurity and SOC Operations**.
-
-🔐 Currently developing hands-on experience in:
-
-- Security Operations Center (SOC)
-- SIEM & security monitoring
-- Threat detection
-- Incident response
-- Network security
-- Endpoint security
-- Linux administration
-- Security log analysis
-
-🏠 Building and improving my own **SOC Homelab** to gain practical defensive-security experience.
-
-💻 I also enjoy programming with **Python** and working with Linux, networking and security tools.
-
-🎯 My goal is to become a skilled **SOC / Blue Team Security Analyst** and continue developing practical cybersecurity skills.
-
-<br clear="right"/>
-
----
-
-<!-- ========================= CURRENT WORK ========================= -->
-
-## 🔭 What I'm Currently Working On
-
-### 🏠 SOC Homelab
-
-Building a hands-on Security Operations Center lab using:
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-4C7A34?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/SIEM-0A66C2?style=for-the-badge&logoColor=white"/>
-
-</p>
-
-The lab focuses on:
-
 ```text
-                ┌─────────────────────┐
-                │    Windows 11       │
-                │     Endpoint        │
-                └─────────┬───────────┘
-                          │
-                       Logs
-                          │
-                          ▼
-                ┌─────────────────────┐
-                │       Wazuh         │
-                │   SIEM / Monitoring │
-                └─────────┬───────────┘
-                          │
-                 Detection & Analysis
-                          │
-                          ▼
-                ┌─────────────────────┐
-                │      SOC Server     │
-                │   Investigation     │
-                └─────────────────────┘
-                          ▲
-                          │
-                      Network
-                       Traffic
-                          │
-                ┌─────────┴───────────┐
-                │      Suricata       │
-                │ Network Detection   │
-                └─────────────────────┘
-                          ▲
-                          │
-                ┌─────────────────────┐
-                │   Ubuntu Endpoint   │
-                └─────────────────────┘
+                         ┌─────────────────────────┐
+                         │       SOC SERVER        │
+                         │                         │
+                         │     Ubuntu Server       │
+                         │                         │
+                         │  ┌───────────────────┐  │
+                         │  │       WAZUH       │  │
+                         │  │ SIEM / Monitoring  │  │
+                         │  └───────────────────┘  │
+                         │                         │
+                         │  ┌───────────────────┐  │
+                         │  │     SURICATA      │  │
+                         │  │ Network Detection  │  │
+                         │  └───────────────────┘  │
+                         └────────────┬────────────┘
+                                      │
+                       Logs / Events / Network Data
+                                      │
+                 ┌────────────────────┴────────────────────┐
+                 │                                         │
+        ┌────────▼────────┐                       ┌────────▼────────┐
+        │   WINDOWS 11    │                       │ UBUNTU DESKTOP  │
+        │    ENDPOINT     │                       │    ENDPOINT     │
+        │                 │                       │                 │
+        │ Windows Events  │                       │ Linux Logs      │
+        │ Security Events │                       │ System Activity │
+        └─────────────────┘                       └─────────────────┘
