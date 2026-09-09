@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                      HERO SECTION                         -->
+<!--                     HERO SECTION                          -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -10,117 +10,112 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Learning+%E2%86%92+Building+%E2%86%92+Detecting+%E2%86%92+Defending" alt="Typing SVG"/>
 
-<br><br>
+<br>
 
 <!-- Badges -->
-<a href="https://github.com/abdurrehman18zz">
-  <img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-</a>
-<a href="https://github.com/abdurrehman18zz?tab=followers">
-  <img src="https://img.shields.io/github/followers/abdurrehman18zz?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="Followers"/>
-</a>
-<a href="https://github.com/abdurrehman18zz?tab=repositories">
-  <img src="https://img.shields.io/github/stars/abdurrehman18zz?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="GitHub Stars"/>
-</a>
+<a href="https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdurrehmanexex@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdurrehman18zz"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Profile-B03A2E?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
 <br><br>
 
-<!-- Socials -->
-<a href="https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
-</a>
-<a href="mailto:abdurrehmanexex@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-0E75B6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://tryhackme.com/p/yourusername">
-  <img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<!-- GitHub Trophies -->
+<a href="https://github.com/abdurrehman18zz">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurrehman18zz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </a>
 
 </div>
 
+<br>
+
 ---
 
 <!-- ========================================================= -->
-<!--                       EXECUTIVE SUMMARY                   -->
+<!--                     EXECUTIVE SUMMARY                     -->
 <!-- ========================================================= -->
 
 <h2 align="center">🕵️‍♂️ Executive Summary</h2>
 
-<div align="center">
-  <p>
-    I am a Computer Science student and an aspiring <b>SOC Analyst</b> focused on <b>Blue Team operations, threat detection, and security monitoring</b>. I believe in hands-on learning: stepping away from textbooks to build real-world enterprise architectures, generate simulated attacks, and hunt for the resulting telemetry in SIEM dashboards.
-  </p>
-  <p>
-    <i>"Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings"</i>
-  </p>
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    TECHNICAL SKILLS                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">⚙️ Technical Arsenal</h2>
-
-<div align="center">
-
-**SIEM & Security Monitoring**<br>
-<img src="https://img.shields.io/badge/Wazuh-00D9FF?style=for-the-badge&logo=wazuh&logoColor=111827" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-0E75B6?style=for-the-badge&logo=suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-<br>
-
-**Operating Systems & Cloud**<br>
-<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<br>
-
-**Networking & Scripting**<br>
-<img src="https://img.shields.io/badge/TCP/IP_&_OSI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    THE SOC HOMELAB                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔬 Enterprise SOC Homelab</h2>
-
 <table>
 <tr>
-<td width="55%">
+<td width="65%" valign="top">
 
-### Architecture Overview
-My custom-built Security Operations Center (SOC) lab, designed to simulate an enterprise environment. It allows me to detonate malware safely, track lateral movement, and write custom detection rules.
+### 👋 Hello, I'm Abd Ur Rehman
 
-*   **Central Brain:** Ubuntu Server hosting **Wazuh** (SIEM/XDR) and **Suricata** (NIDS).
-*   **Endpoints:** Windows 11 and Ubuntu Desktop forwarding telemetry.
-*   **Networking:** Host-Only adapter for complete isolation, allowing safe execution of real threats.
-*   **Next Steps:** Integrating pfSense for network segmentation and Sysmon for deep process tracking.
+I am a Computer Science student and aspiring **SOC Analyst** dedicated to the Blue Team philosophy: *Defense in Depth*. I don't just read about cybersecurity; I build the infrastructure, simulate the attacks, and hunt the threats. 
+
+My core philosophy is straightforward:
+> **Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings.**
+
+**🎯 Professional Direction:**
+- 🔹 **SIEM Engineering & Log Analysis** (Wazuh, Splunk)
+- 🔹 **Network Security Monitoring** (Suricata, Wireshark)
+- 🔹 **Endpoint Detection & Response** (EDR)
+- 🔹 **Incident Response & Threat Hunting**
 
 </td>
-<td width="45%">
-<div align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="100%" alt="Cybersecurity GIF"/>
-</div>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="280" alt="Cybersecurity Radar Animation"/>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ========================================================= -->
+<!--                     TECHNICAL SKILLS                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">⚙️ Arsenal & Technologies</h2>
+
 <div align="center">
 
-```text
+**`Security & SIEM`**
+<br>
+<img src="https://img.shields.io/badge/Wazuh-00D9FF?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snort-0E75B6?style=for-the-badge&logo=snort&logoColor=white"/>
+
+<br><br>
+**`Operating Systems & Cloud`**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+**`Scripting & Automation`**
+<br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     THE SOC HOMELAB                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔬 Featured Architecture: Enterprise SOC Homelab</h2>
+
+<p align="center">
+<i>A fully functional, isolated environment designed to simulate enterprise networks, detonate malware, and practice real-time threat hunting.</i>
+</p>
+
+```mermaid
+  Architecture Diagram (ASCII representation for cross-compatibility)
+
                          ┌─────────────────────────┐
                          │       SOC SERVER        │
                          │                         │
