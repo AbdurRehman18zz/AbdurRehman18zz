@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                     HERO SECTION                          -->
+<!--                      HERO SECTION                         -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -8,165 +8,117 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Building+Hands-On+Cybersecurity+Projects;Learning+%E2%86%92+Building+%E2%86%92+Detecting+%E2%86%92+Defending" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Learning+%E2%86%92+Building+%E2%86%92+Detecting+%E2%86%92+Defending" alt="Typing SVG"/>
 
 <br><br>
 
+<!-- Badges -->
 <a href="https://github.com/abdurrehman18zz">
-<img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </a>
-
 <a href="https://github.com/abdurrehman18zz?tab=followers">
-<img src="https://img.shields.io/github/followers/abdurrehman18zz?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/abdurrehman18zz?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="Followers"/>
 </a>
-
 <a href="https://github.com/abdurrehman18zz?tab=repositories">
-<img src="https://img.shields.io/github/stars/abdurrehman18zz?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/abdurrehman18zz?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=111827" alt="GitHub Stars"/>
 </a>
 
 <br><br>
 
+<!-- Socials -->
 <a href="https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=111827"/>
 </a>
-
 <a href="mailto:abdurrehmanexex@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email_Me-0E75B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/abdurrehman18zz">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://tryhackme.com/p/yourusername">
+  <img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-
-<br><br>
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
+<!--                       EXECUTIVE SUMMARY                   -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛡️ About Me</h2>
+<h2 align="center">🕵️‍♂️ Executive Summary</h2>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### Hey there 👋
-
-I'm **Abd Ur Rehman**, a Computer Science student focused on building practical skills in **Cybersecurity, Security Operations and Blue Team defense**.
-
-My learning approach is simple:
-
-> **Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings**
-
-I'm particularly interested in how security events move from an endpoint or network into a monitoring platform and how a SOC analyst turns those events into an actual investigation.
-
-### 🎯 My Direction
-
-I'm working toward becoming a **SOC Analyst / Blue Team professional**, with a focus on:
-
-🔹 Security Monitoring  
-🔹 SIEM  
-🔹 Threat Detection  
-🔹 Log Analysis  
-🔹 Incident Response  
-🔹 Endpoint Security  
-🔹 Network Security  
-🔹 Security Automation  
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="280" alt="Cybersecurity"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FOCUS-SOC%20%7C%20BLUE%20TEAM-00D9FF?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILD-REAL%20WORLD%20LABS-0E75B6?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GOAL-SOC%20ANALYST-111827?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <p>
+    I am a Computer Science student and an aspiring <b>SOC Analyst</b> focused on <b>Blue Team operations, threat detection, and security monitoring</b>. I believe in hands-on learning: stepping away from textbooks to build real-world enterprise architectures, generate simulated attacks, and hunt for the resulting telemetry in SIEM dashboards.
+  </p>
+  <p>
+    <i>"Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings"</i>
+  </p>
+</div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                   CURRENT FOCUS                            -->
+<!--                    TECHNICAL SKILLS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="center">⚙️ Technical Arsenal</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+**SIEM & Security Monitoring**<br>
+<img src="https://img.shields.io/badge/Wazuh-00D9FF?style=for-the-badge&logo=wazuh&logoColor=111827" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-0E75B6?style=for-the-badge&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
-### 🏠 SOC Homelab
+<br>
 
-Building a practical SOC environment using:
+**Operating Systems & Cloud**<br>
+<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-**Wazuh**  
-**Suricata**  
-**Windows 11**  
-**Ubuntu Linux**
+<br>
 
-</td>
-
-<td width="33%" align="center">
-
-### 🔎 Detection
-
-Learning how to:
-
-**Collect logs**  
-**Detect suspicious activity**  
-**Investigate alerts**  
-**Analyze events**
-
-</td>
-
-<td width="33%" align="center">
-
-### 📚 Continuous Learning
-
-Currently improving:
-
-**SIEM**  
-**Splunk**  
-**Blue Team**  
-**Incident Response**
-
-</td>
-</tr>
-</table>
+**Networking & Scripting**<br>
+<img src="https://img.shields.io/badge/TCP/IP_&_OSI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                    SECURITY LAB                           -->
+<!--                    THE SOC HOMELAB                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏠 My SOC Homelab</h2>
+<h2 align="center">🔬 Enterprise SOC Homelab</h2>
 
-<p align="center">
-A hands-on environment where I practice monitoring, detection and investigation instead of learning cybersecurity only through theory.
-</p>
+<table>
+<tr>
+<td width="55%">
 
-<br>
+### Architecture Overview
+My custom-built Security Operations Center (SOC) lab, designed to simulate an enterprise environment. It allows me to detonate malware safely, track lateral movement, and write custom detection rules.
+
+*   **Central Brain:** Ubuntu Server hosting **Wazuh** (SIEM/XDR) and **Suricata** (NIDS).
+*   **Endpoints:** Windows 11 and Ubuntu Desktop forwarding telemetry.
+*   **Networking:** Host-Only adapter for complete isolation, allowing safe execution of real threats.
+*   **Next Steps:** Integrating pfSense for network segmentation and Sysmon for deep process tracking.
+
+</td>
+<td width="45%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="100%" alt="Cybersecurity GIF"/>
+</div>
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ```text
                          ┌─────────────────────────┐
@@ -176,12 +128,12 @@ A hands-on environment where I practice monitoring, detection and investigation 
                          │                         │
                          │  ┌───────────────────┐  │
                          │  │       WAZUH       │  │
-                         │  │ SIEM / Monitoring  │  │
+                         │  │ SIEM / Monitoring │  │
                          │  └───────────────────┘  │
                          │                         │
                          │  ┌───────────────────┐  │
                          │  │     SURICATA      │  │
-                         │  │ Network Detection  │  │
+                         │  │ Network Detection │  │
                          │  └───────────────────┘  │
                          └────────────┬────────────┘
                                       │
