@@ -1,29 +1,24 @@
-<!-- ========================================================= -->
-<!--                     HERO SECTION                          -->
-<!-- ========================================================= -->
+<!-- 
+=======================================================================
+  CYBERSECURITY COMMAND CENTER DASHBOARD (README.md)
+  THEME: NEON CYAN / DARK MODE / TERMINAL
+======================================================================= 
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:111827,70:0E75B6,100:00D9FF&text=ABD%20UR%20REHMAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20BLUE%20TEAM&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+Monitoring+%26+Threat+Detection;Blue+Team+%7C+SIEM+%7C+Incident+Response;Learning+%E2%86%92+Building+%E2%86%92+Detecting+%E2%86%92+Defending" alt="Typing SVG"/>
-
-<br>
-
-<!-- Badges -->
-<a href="https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abdurrehmanexex@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/abdurrehman18zz"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Profile-B03A2E?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<img src="https://raw.githubusercontent.com/abdurrehman18zz/abdurrehman18zz/main/header.gif" onerror="this.src='https://i.pinimg.com/originals/99/3a/0d/993a0d513e9a7e6b7260cb0ce08ee622.gif'" width="100%" height="200" style="object-fit: cover; border-radius: 10px;"/>
 
 <br><br>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/abdurrehman18zz">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdurrehman18zz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=>_Initializing+Security+Operations+Center...;>_Establishing+Secure+Connection...;>_Identity_Verified:+Abd+Ur+Rehman;>_Role:+Blue+Team+|+SOC+Analyst;>_Status:+Monitoring+Network+Telemetry..." alt="Typing SVG"/>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECTION-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-ur-rehman-12b7553b0/)
+[![Email](https://img.shields.io/badge/SECURE_COMMS-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehmanexex@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TRAINING-TRYHACKME-B03A2E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![Views](https://komarev.com/ghpvc/?username=abdurrehman18zz&label=DASHBOARD_VIEWS&color=00FFFF&style=for-the-badge)](https://github.com/abdurrehman18zz)
 
 </div>
 
@@ -31,35 +26,26 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                     EXECUTIVE SUMMARY                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">🕵️‍♂️ Executive Summary</h2>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
-### 👋 Hello, I'm Abd Ur Rehman
+### <code>>_ whoami</code>
 
-I am a Computer Science student and aspiring **SOC Analyst** dedicated to the Blue Team philosophy: *Defense in Depth*. I don't just read about cybersecurity; I build the infrastructure, simulate the attacks, and hunt the threats. 
+I am a Cybersecurity and Security Operations professional architecting defense-in-depth strategies. My methodology moves beyond theory into practical application: building environments, engineering attacks, analyzing the resulting NetFlow and telemetry, and engineering SIEM detections. 
 
-My core philosophy is straightforward:
-> **Learn the concept → Build the lab → Generate the activity → Investigate the logs → Detect the threat → Document the findings.**
+Currently preparing for the **CompTIA Security+** examination and actively analyzing incident response metrics like MTTR vs. RTO, authentication log anomalies, and password entropy calculations.
 
-**🎯 Professional Direction:**
-- 🔹 **SIEM Engineering & Log Analysis** (Wazuh, Splunk)
-- 🔹 **Network Security Monitoring** (Suricata, Wireshark)
-- 🔹 **Endpoint Detection & Response** (EDR)
-- 🔹 **Incident Response & Threat Hunting**
+### <code>>_ execution_metrics.sh</code>
+
+*   **Primary Directive:** SOC Analysis, SIEM Engineering, Incident Response.
+*   **Current Operation:** Engineering custom Wazuh detection rules for living-off-the-land (LotL) execution.
+*   **Architecture Focus:** SOAR integration, NetFlow traffic analysis via Suricata, and SIEM log collection architectures.
 
 </td>
-<td width="35%" align="center">
+<td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/static-templates/main/assets/cybersecurity.gif" width="280" alt="Cybersecurity Radar Animation"/>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=abdurrehman18zz&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdurrehman18zz&show_icons=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&hide_border=true&hide_rank=false" alt="GitHub Stats" width="100%"/>
 
 </td>
 </tr>
@@ -67,79 +53,56 @@ My core philosophy is straightforward:
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECHNICAL SKILLS                      -->
-<!-- ========================================================= -->
-
-<h2 align="center">⚙️ Arsenal & Technologies</h2>
+<h3 align="center"><code>>_ ARSENAL_AND_TOOLS.exe</code></h3>
 
 <div align="center">
 
-**`Security & SIEM`**
-<br>
-<img src="https://img.shields.io/badge/Wazuh-00D9FF?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snort-0E75B6?style=for-the-badge&logo=snort&logoColor=white"/>
-
-<br><br>
-**`Operating Systems & Cloud`**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br><br>
-**`Scripting & Automation`**
-<br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+| **SIEM & Monitoring** | **Network & EDR** | **Infrastructure & OS** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Wazuh-00FFFF?style=for-the-badge&logo=wazuh&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/> | <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> | <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> |
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     THE SOC HOMELAB                       -->
-<!-- ========================================================= -->
+<h3 align="center"><code>>_ ENTERPRISE_SOC_HOMELAB.cfg</code></h3>
 
-<h2 align="center">🔬 Featured Architecture: Enterprise SOC Homelab</h2>
+<table align="center" width="100%">
+<tr>
+<td width="40%" valign="top">
 
-<p align="center">
-<i>A fully functional, isolated environment designed to simulate enterprise networks, detonate malware, and practice real-time threat hunting.</i>
-</p>
+#### **Hardware & Infrastructure**
+*   **Host Engine:** Lenovo ThinkBook 14 G6 IRL
+*   **Compute:** Intel Core i7-1355U, DDR5 RAM
+*   **Storage:** 1TB NVMe SSD + External HDD
+*   **Monitoring Array:** 2560x1080 Ultrawide Display
+*   **Network Fabric:** Virtualized Host-Only Isolation Adapter
+
+#### **Operational Capabilities**
+*   **Endpoint Telemetry:** Ingesting Sysmon/Windows Event Logs and Linux system logs into Wazuh.
+*   **NIDS:** Suricata sniffing host-only traffic for signature matching.
+*   **Threat Hunting:** Querying SIEM dashboards for log anomalies and calculating response metrics.
+
+</td>
+<td width="60%" align="center">
 
 ```mermaid
-  Architecture Diagram (ASCII representation for cross-compatibility)
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#00FFFF', 'primaryBorderColor': '#00FFFF', 'lineColor': '#00FFFF', 'secondaryColor': '#111827', 'tertiaryColor': '#1f2937'} }}%%
+graph TD
+    subgraph SOC_Command_Center
+        S1[Ubuntu Server]
+        W[Wazuh SIEM]
+        SU[Suricata NIDS]
+        S1 --> W
+        S1 --> SU
+    end
 
-                         ┌─────────────────────────┐
-                         │       SOC SERVER        │
-                         │                         │
-                         │     Ubuntu Server       │
-                         │                         │
-                         │  ┌───────────────────┐  │
-                         │  │       WAZUH       │  │
-                         │  │ SIEM / Monitoring │  │
-                         │  └───────────────────┘  │
-                         │                         │
-                         │  ┌───────────────────┐  │
-                         │  │     SURICATA      │  │
-                         │  │ Network Detection │  │
-                         │  └───────────────────┘  │
-                         └────────────┬────────────┘
-                                      │
-                       Logs / Events / Network Data
-                                      │
-                 ┌────────────────────┴────────────────────┐
-                 │                                         │
-        ┌────────▼────────┐                       ┌────────▼────────┐
-        │   WINDOWS 11    │                       │ UBUNTU DESKTOP  │
-        │    ENDPOINT     │                       │    ENDPOINT     │
-        │                 │                       │                 │
-        │ Windows Events  │                       │ Linux Logs      │
-        │ Security Events │                       │ System Activity │
-        └─────────────────┘                       └─────────────────┘
+    subgraph Isolated_Threat_Network
+        E1[Windows 11 Endpoint]
+        E2[Ubuntu Desktop Endpoint]
+    end
+
+    E1 -- Sysmon / Event IDs --> W
+    E2 -- Syslog / Auditd --> W
+    E1 -. Host-Only Adapter Traffic .-> SU
+    E2 -. Host-Only Adapter Traffic .-> SU
